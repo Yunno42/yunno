@@ -30,9 +30,9 @@ Siga os passos abaixo!
 > pkg install wget
 > pkg install nodejs
 > pkg install npm
-> git clone https://github.com/Yunno42/
+> git clone https://github.com/Yunno42/yunno/
 
-> cd Yunno42
+> cd yunno
 > bash install.sh
 ```
 
